@@ -1,4 +1,3 @@
-# 결과
 <h1> 프로젝트 결과 </h1><br>
 <img src="img/캡스톤.jpg" width="300" height="300"><br>
 <h1> 프로젝트 추진 결과</h1>
