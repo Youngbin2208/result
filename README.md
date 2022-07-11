@@ -16,3 +16,8 @@
   <div>프로젝트 소개 영상/ 팀 소개 영상: https://youtu.be/qodatA5EYRM  /  https://youtu.be/IxkjiuZpPLc</div>
 <br>
   <div>계획 발표 자료 -중간 발표 자료 -최종 발표 자료는 https://drive.google.com/drive/folders/1XZNFnjG1ZnYgHPLXAWAqYbbQKX57QGVH?usp=sharing 여기서 보실 수 있습니다</div>
+<br>
+
+<h1> 시연 영상 </h1>
+  <iframe id="video" width="500px" height="500px" src="video/캡스톤1.mp4" frameborder="0">
+</iframe>
