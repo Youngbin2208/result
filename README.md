@@ -19,5 +19,4 @@
 <br>
 
 <h1> 시연 영상 </h1>
-  <iframe id="video" width="500px" height="500px" src="video/캡스톤1.mp4" frameborder="0">
-</iframe>
+  <div>https://drive.google.com/drive/folders/1nfDqDblYMp-HePtDRWvCP0g76Qm0frpw?usp=sharing 여기서 보실 수 있습니다.</div>
