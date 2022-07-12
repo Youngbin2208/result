@@ -22,6 +22,6 @@
 <h1> 시연 영상 </h1>
   <div>https://drive.google.com/drive/folders/1nfDqDblYMp-HePtDRWvCP0g76Qm0frpw?usp=sharing 여기서 보실 수 있습니다.</div>
   
-  <div> 시연 영상 설명 <
+  <div> 시연 영상 설명 </div>
   <div> 하단 부에 있는 수중펌프에서 상단에 있는 식물이 자라는 공간으로 물을 끌어서 주고 </div>
   <div> 일정량 이상 물이 채워질 경우 중간에 어항으로 물이 가고 마찬가지로 채워질 경우 내려가는 순환 시스템 입니다.</div>
